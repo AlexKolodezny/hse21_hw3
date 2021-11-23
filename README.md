@@ -3,6 +3,9 @@
 ## Выравнивание генома
 Ссылка на колаб с выравниванием \
 [https://colab.research.google.com/drive/1BQ8HtVDnh-iux1QvKiVTNWb8i1IKbUJL?usp=sharing](https://colab.research.google.com/drive/1BQ8HtVDnh-iux1QvKiVTNWb8i1IKbUJL?usp=sharing)
+Ссылка на R колаб со статистикой \
+[https://colab.research.google.com/drive/14SA50M2BkBU3dPb8wr_r1VklMoLXOLBW?usp=sharing](https://colab.research.google.com/drive/14SA50M2BkBU3dPb8wr_r1VklMoLXOLBW?usp=sharing)
+
 
 Скриншоты из html файлов полученные из fastqc (сами эти файлы так же представлены в репозитории) \
 ### SRR3414629
@@ -44,3 +47,13 @@
 |SRR3414635| control | 20956475 | 18428317 | 16275997 | 17036131 |
 |SRR3414636| control | 20307147 | 17825380 | 15757580 | 16492688 |
 |SRR3414637| control | 20385570 | 17844858 | 15736978 | 16447208 |
+
+## Графики со статистиками
+### Тепловая карта экспрессии
+![](images/warm_plot.png)
+### MAplot
+![](images/MAplot.png)
+### Гены более всего поменявшие свою экспрессию
+![](images/norm_1.png)
+![](images/norm_2.png)
+![](images/norm_3.png)
